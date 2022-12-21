@@ -44,7 +44,7 @@
   </div>
   <br>
   <!--To do deploy this on my heroku account myself-->
-  <img src="./images/theme.png" width="100%"/>
+  <img src="./images/theme2.jpg" width="100%"/>
 </p>
 <hr>
 <div align=center>
