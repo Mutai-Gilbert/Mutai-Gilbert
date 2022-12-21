@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harlexkhal.harlexkhal">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Mutai+Gilbert🙂;A+Full+Stack+Developer+Student+at+Microverse!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Mutai+Gilbert🙂;A+Full+Stack+Develope!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
   </a>
 </h1>
 <hr>
@@ -44,7 +44,7 @@
   </div>
   <br>
   <!--To do deploy this on my heroku account myself-->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mutai-Gilbert&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="./images/theme.png" width="100%"/>
 </p>
 <hr>
 <div align=center>
