@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harlexkhal.harlexkhal">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Mutai+Gilbert🙂;+A+React+Developer!+👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Gilbert+Mutai🙂;+A+React+Developer!+👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
   </a>
 </h1>
 <hr>
