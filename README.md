@@ -95,4 +95,4 @@
 
 ## Feedback
 
-- 📫 If you have any feedback, please reach out to me at mutaigilbert85@gmail.com@gmail.com
+- 📫 If you have any feedback, please reach out to me at mutaigilbert85@gmail.com
