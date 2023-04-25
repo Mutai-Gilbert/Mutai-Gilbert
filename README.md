@@ -32,13 +32,12 @@
 
 ⚡ Fun fact **I think I am fun to work with and I can work based on any type of requirement.**</h4>
 
-💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
+💻 All **my projects** are available [here.](https://github.com/Mutai-Gilbert).<br><br>
 
 <!----------------------------------- LICENSES ------------------------------->
 
 ### Certificates & Licenses 🥇
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/c87e7e0b-4174-4b0b-9571-565a4c7b269b" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="100"></a> 
     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/f6ed14fe-cd1b-497d-b203-c2ee6eb52e95" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a>
  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/f493d4ca-106a-4128-9520-a539b4e1160c" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/7a1ce8423fcf544f1c0d225b78f23b9a" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
