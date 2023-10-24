@@ -35,17 +35,13 @@
 <a href="https://twitter.com/iam_pkoech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/iam_pkoech" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mutai-kipkoech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mutai-kipkoech/" height="30" width="40" /></a>
 </p>
-</h3>
  
+</h3>
   <br>
   <!--To do deploy this on my heroku account myself-->
   <img src="./images/theme2.jpg" width="100%"/>
 </p>
 <hr>
-<div align=center>
-    <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
-</div>
-<hr/>
 <br/>
 
 <h2 align="center"> My Github Stats && Technologies I use:</h2>
