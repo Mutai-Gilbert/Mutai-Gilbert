@@ -14,7 +14,7 @@
 &#8287;&#8287;&#8287;
  
 
-<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20WEB%20DEVELOPER;I%20Am%20Micronaut&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&size=30&pause=1000"></h2>
+<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;I%20Am%20Micronaut&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&size=30&pause=1000"></h2>
 
 <p align="center"> 
   Visitor count<br>
