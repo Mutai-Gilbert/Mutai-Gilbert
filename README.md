@@ -46,7 +46,7 @@
     <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
 </div>
 <hr/>
-br/>
+<br/>
 
 <h2 align="center"> My Github Stats && Technologies I use:</h2>
 
