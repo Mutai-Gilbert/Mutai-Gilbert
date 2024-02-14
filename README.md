@@ -21,15 +21,10 @@
   <img src="https://profile-counter.glitch.me/Mutai-Gilbert/count.svg" />
 </p>
  
-<h3 align="center">A Full Stack Developer .</h3>
+<h3 align="center">Back-End Developer </h3>
+<h3 align="center"> Data Analyst</h3>
 
-<h3 align="center"> 🌱 I’m building Innovate Web solutions </h3>
-
-<h3 align="center"> 💬 Ask me about React and NextJS</h3>
-
-<h3 align="center"> 📫 How to reach me mutaigilbert85@gmail.com</h3>
-
- <h3 align="center">⚡ My goal is help others learn to code, continue learning how to code, build an amazing team, identify a niche, innovate and disrupt</h3>
+ <h3 align="center">⚡ As a data analyst, my primary focus is on integrating machine learning into various applications, including web and mobile applications. I have a strong foundation in networking and cloud computing, which allows me to effectively design and implement these integrations in a scalable and efficient manner.</h3>
  
 <h3 align="center">Connect with me: <p>
 <a href="https://twitter.com/iam_pkoech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/iam_pkoech" height="30" width="40" /></a>
