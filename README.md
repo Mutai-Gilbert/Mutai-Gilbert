@@ -26,7 +26,7 @@
 
  <h3 align="center">⚡ Back-End Developer/ Data Analyst with over four years of experience in manufacturing and software development. I have a
 solid background in mathematics and statistics, allowing me to create and implement these integrations in a scalable and
-efficient manner. My long-term focus is on artificial intelligence and data science..</h3>
+efficient manner. My long-term focus is on artificial intelligence and data science.</h3>
  
 <h3 align="center">Connect with me: <p>
 <a href="https://twitter.com/iam_pkoech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/iam_pkoech" height="30" width="40" /></a>
