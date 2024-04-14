@@ -22,7 +22,6 @@
 </p>
  
 <h3 align="center">Back-End Developer </h3>
-<h3 align="center"> Data Analyst</h3>
 
  <h3 align="center">⚡ Back-End Developer/ Data Analyst with over four years of experience in manufacturing and software development. I have a
 solid background in mathematics and statistics, allowing me to create and implement these integrations in a scalable and
