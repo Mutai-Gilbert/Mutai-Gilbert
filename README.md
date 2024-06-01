@@ -10,15 +10,8 @@
 <h3 align="center">Back-End Developer </h3>
 
  <h3 align="center">⚡Back-End Developer/Data Analyst with 4+ years of experience in manufacturing and software development. Strong background in mathematics and statistics for scalable integrations. Focused on AI and data science.</h3>
- 
- 
+
 </h3>
-  <br>
-  <!--To do deploy this on my heroku account myself-->
-  <img src="./images/theme2.jpg" width="100%"/>
-</p>
-<hr>
-<br/>
 
 <div align="center">
     <h2>🌐 Connect with Me</h2>
