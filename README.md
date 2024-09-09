@@ -2,7 +2,7 @@
 
 <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Back%20End%20Developer;I%20Am%20Micronaut&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&size=30&pause=1000"></h2>
   
-<h3 align="center">Back-End Developer </h3>
+<h3 align="center">Backend Developer </h3>
 
  <h3 align="center">⚡Back-End Developer/Data Analyst with 4+ years of experience in manufacturing and software development. Strong background in mathematics and statistics for scalable integrations. Focused on AI and data science.</h3>
 
