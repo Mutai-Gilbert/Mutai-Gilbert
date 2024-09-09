@@ -4,7 +4,7 @@
   
 <h3 align="center">Backend Developer </h3>
 
- <h3 align="center">⚡Back-End Developer/Data Analyst with 4+ years of experience in manufacturing and software development. Strong background in mathematics and statistics for scalable integrations. Focused on AI and data science.</h3>
+ <h3 align="center">⚡Backend Developer/Data Analyst with 4+ years of experience in manufacturing and software development. Strong background in mathematics and statistics for scalable integrations. Focused on AI and data science.</h3>
 
 </h3>
 
